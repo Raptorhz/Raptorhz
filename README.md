@@ -1,4 +1,4 @@
-# Hi there, I'm Raptorhz! 👋
+# Hi there, I'm Rapt 👋
 
 I'm a passionate **Backend Developer** with a love for building scalable, efficient, and secure systems. I enjoy solving complex problems and creating robust solutions that power amazing applications.
 
