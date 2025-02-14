@@ -58,7 +58,7 @@ I'm a passionate **Backend Developer** with a love for building scalable, effici
 ## ⚡ Fun Fact
 
 I once automated my entire morning routine with a Raspberry Pi, including brewing coffee and playing my favorite playlist. ☕🎶
-
+- **Donate**: [Trakteer](https://trakteer.id/dekupetstarup)
 ---
 
 <p align="center">
