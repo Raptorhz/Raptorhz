@@ -49,6 +49,7 @@ I'm a passionate **Backend Developer** with a love for building scalable, effici
 ## 📫 How to Reach Me
 
 - **Email**: developer@raptdev.my.id
+- **Website**: [raptdev.my.id](https://www.raptdev.my.id/)
 - **Fastwork**: [fastwork.id/user/raptorz](https://fastwork.id/user/raptorz)
 - **Tiktok**: [@Rapt](https://www.tiktok.com/@raptortz)
 - **GitHub**: [github.com/Raptorhz](https://github.com/Raptorhz)
